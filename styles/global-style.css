@@ -12,12 +12,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 #container {
-  margin: auto;
-  max-width: 500px;
   width: 70%;
-  height: 100%;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+p {
   padding-top: 1rem;
-  padding-bottom: 5rem;
+  line-height: 1.5rem;
+  letter-spacing: .05rem;
 }
 a {
   color: black;
